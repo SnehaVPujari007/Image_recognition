@@ -61,9 +61,7 @@ To run this project, you need:
 - NumPy
 - Matplotlib
 
-Install the necessary libraries using `pip`:
-```bash
-pip install tensorflow numpy matplotlib
+
 
 ---
 ## How to Use
