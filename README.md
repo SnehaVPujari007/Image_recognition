@@ -65,6 +65,7 @@ Install the necessary libraries using `pip`:
 ```bash
 pip install tensorflow numpy matplotlib
 
+---
 ## How to Use
 
 1. Organize your dataset as specified in the **Dataset** section.
